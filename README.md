@@ -1,5 +1,4 @@
-# CS340
-Client/Server Development
+# Client/Server Development
 
 Writing programs that are maintainable, readable, and adaptable is essential for ensuring the long-term success and scalability of a project. I have broken down the functionality of the program into smaller, reusable modules. Each module has a clear purpose and is responsible for a specific task. This makes the code easier to understand, maintain, and debug. I have used descriptive names for variables, functions, and modules that accurately convey their purpose and functionality. This makes the code more readable and self-explanatory. I have written automated tests to verify the correctness of the code and catch regressions when making changes, which ensures that the code meets the requirements and behaves as expected. The CRUD module encapsulates common database operations (Create, Read, Update, Delete) into reusable functions. This promotes code reuse across different parts of the project. The CRUD module can be reused in other projects that require database interaction. As long as the database schema remains consistent (MongoDB), the CRUD module can be easily integrated into new projects.
 
